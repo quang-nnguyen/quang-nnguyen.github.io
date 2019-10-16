@@ -15,7 +15,7 @@ header:
   * Platform: pytorch, tensorflow, Grakn, MongoDB, OpenCV
 - Language:
   
-  * English: professional. TOEFL iBT (104/150)
+  * English: professional. TOEFL iBT (104/120)
   * Japanese: linguistic and cultural notions
 
 ## Research Interest
